@@ -1,11 +1,14 @@
-import './App.css'
+import "./App.css";
+import Navbar from "./components/Navbar/Navbar";
+import Hero from "./components/hero/Hero";
 
 function App() {
   return (
     <>
-    <h1>Clothing Brand</h1>
+      <Navbar/>
+      <Hero/>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
