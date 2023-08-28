@@ -1,7 +1,7 @@
-const CasualData = [
+export const storeData = [
     {
         id:1,
-        img:"https://lirp.cdn-website.com/md/dmtmpl/f67fc932-23…opt/asian_woman_is_wearing_blue_costume-1280w.jpg",
+        img:"https://irp.cdn-website.com/md/dmtmpl/f67fc932-23e9-4c99-a08c-01ab694e3064/dms3rep/multi/asian_woman_is_wearing_blue_costume.jpg",
         imgHover:"https://irp.cdn-website.com/md/dmtmpl/f67fc932-23e9-4c99-a08c-01ab694e3064/dms3rep/multi/woman_is_wearing_blue_costume.jpg",
         title:"blue cutton costume",
         price:"$350.00"

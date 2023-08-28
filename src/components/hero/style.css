@@ -1,6 +1,14 @@
 .hero {
-    background-image: url(https://lirp.cdn-website.com/md/dmtmpl/f67fc932-23…s3rep/multi/opt/three_women_wears_suits-2880w.jpg);
+    background-image: url("https://lirp.cdn-website.com/md/dmtmpl/f67fc932-23e9-4c99-a08c-01ab694e3064/dms3rep/multi/opt/three_women_wears_suits-2880w.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+.hero h1 {
+    font-family: 'Syne', sans-serif;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+.hero button {
+    font-family: 'Syne', sans-serif;
 }

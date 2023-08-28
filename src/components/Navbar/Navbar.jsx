@@ -22,7 +22,7 @@ const Navbar = () => {
     },
   ];
   return (
-    <nav className="flex items-center justify-between h-24 bg-white px-10">
+    <nav className="container flex items-center justify-between h-24 bg-white">
       <div className="logo w-[16.6%]">
         <img
           className="w-full"
