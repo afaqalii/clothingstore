@@ -5,7 +5,7 @@ const OurStory = () => {
   const sisters =
     "https://lirp.cdn-website.com/md/dmtmpl/f67fc932-23e9-4c99-a08c-01ab694e3064/dms3rep/multi/opt/two_woman_wear_red_and_blue_suits-1920w.jpg";
   return (
-    <div className="container py-[100px] flex justify-between items-center">
+    <div className="container py-[100px] flex flex-wrap lg:flex-nowrap justify-between items-center">
       <div className="w-[60%] h-[390px]">
         <div className="w-[484px] h-full">
           <img

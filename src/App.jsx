@@ -1,4 +1,5 @@
 import "./App.css";
+import Footer from "./components/Footer/Footer";
 import ItemsList from "./components/ItemsList/ItemsList";
 import Navbar from "./components/Navbar/Navbar";
 import OurStory from "./components/OurStory/OurStory";
@@ -19,6 +20,7 @@ function App() {
       <OurStory/>
       <NewCollection/>
       <Benefits/>
+      <Footer/>
     </>
   );
 }
